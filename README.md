@@ -2,7 +2,7 @@
 
 A responsive Streamlit ML demo that flags **potentially** fake product reviews using TF-IDF, text-length signals, ratings, and optional reviewer metadata. Compares Logistic Regression and Random Forest with class weighting and a fake-class F1 score.
 
-
+Deployed at: https://fake-review-detection-cwvhmxeg9enmshnabcucdt.streamlit.app/ 
 ## CSV format
 
 At minimum:
